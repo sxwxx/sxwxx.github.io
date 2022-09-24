@@ -1,6 +1,6 @@
 ---
 layout : single
-title  : 첫 게시글
+title  : first post
 ---
 
 
